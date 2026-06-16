@@ -1,0 +1,27 @@
+/* TEAM */
+Site Name: BDG Play
+Website: https://bdg-play.co.in
+Owner: Divine Records
+Role: Website Owner & Content Manager
+
+/* SITE */
+Website: https://bdg-play.co.in
+Type: Online Gaming Information Platform
+Language: English
+Country: India
+
+/* TECHNOLOGY */
+HTML5
+CSS3
+JavaScript
+Responsive Design
+SEO Optimized
+
+/* CONTACT */
+Website: https://bdgplay.digitalindiaguide.com/contact-us/
+
+/* THANKS */
+Thanks to all visitors, readers, and community members for supporting BDG Play.
+
+/* LAST UPDATE */
+2026-06-04

@@ -1,0 +1,43 @@
+# BDG Play Robots.txt
+# Updated: june 2026
+
+User-agent: *
+
+# Block admin and system areas
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /cache/
+Disallow: /includes/
+
+# Block user-specific pages
+Disallow: /my-account/
+Disallow: /dashboard/
+Disallow: /wallet/
+Disallow: /transactions/
+
+# Block duplicate parameter URLs
+Disallow: /*?utm_
+Disallow: /*&utm_
+Disallow: /*?ref=
+Disallow: /*&ref=
+Disallow: /*?fbclid=
+Disallow: /*&fbclid=
+Disallow: /*?gclid=
+Disallow: /*&gclid=
+Disallow: /*?s=
+Disallow: /*?search=
+Disallow: /*?filter=
+
+# Allow assets
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# Sitemap
+https://bdgplay.digitalindiaguide.com/sitemap.xml
